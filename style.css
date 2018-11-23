@@ -48,8 +48,8 @@ main {
 
 #pic {
     float: left;
-    width: 150px;
-    height: 150px;
+    width: 140px;
+    height: 140px;
     border-radius: 10%;
 	-webkit-animation: fadeInScale 1s linear 10ms backwards;
 	-moz-animation: fadeInScale 1s linear 10ms backwards;
@@ -61,6 +61,7 @@ main {
 	-ms-transform: scale(1) rotate(0deg);
 	transform: scale(1) rotate(0deg);
 }
+
 
 .links {
     clear: both;
