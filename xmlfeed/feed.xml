@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title> Blasanka - Full Stack | Android freelance developer </title>
+		<link> https://blasanka.github.io </link>
+		<description> B Liyanage Asanka aka blasanka, in short blasa. I am a Full stack | Android developer. Seriously I do freelancing and my passionate about teaching and freelancing. This feed will wrap up me on the web. </description>
+		<generator>pagecolumn rss generator | https://feedity.com/github-io/UlNaWlVWUQ.rss </generator>
+		<image>
+			<url>https://github.com/Blasanka/myBlog/blob/master/assets/img/blasanka_portfolio_bl_asanka_asanka_bl.png </url>
+			<title> blasanka portfolio </title>
+			<link> https://github.com/Blasanka/myBlog/blob/master/assets/img/blasanka_portfolio_bl_asanka_asanka_bl.png </link>
+			<width> </width>
+			<height> </height>
+		</image>
+		<image>
+			<url>https://github.com/Blasanka/blasanka_old_portfolio/blob/master/img/blasanka(B%20Liyanage%20Asanka).jpg </url>
+			<title> Asanka B.L. Image </title>
+			<link> https://github.com/Blasanka/blasanka_old_portfolio/blob/master/img/blasanka(B%20Liyanage%20Asanka).jpg </link>
+			<width> </width>
+			<height> </height>
+		</image>
+		<item>
+			<title>Blasa's portfolio </title>
+			<link>https://blasanka.github.io </link>
+			<description> </description>
+			<guid>https://blasanka.github.io </guid>
+			<pubDate>Fri, 30 Nov 2018 03:46:08 GMT </pubDate>
+			<author> B L Asanka </author> 
+		</item>
+		<item>
+			<title>Blasa's Portfolio </title>
+			<link>https://blasanka.github.io/blasanka_old_portfolio/ </link>
+			<description>This is my portfolio website for software development, mobile development and web development. This is also used for my freelance works </description>
+			<guid>https://blasanka.github.io/blasanka_old_portfolio/ </guid>
+			<pubDate>Fri, 30 Nov 2018 03:50:51 GMT </pubDate>
+		</item>
+		<item>
+			<title>Asanka B.L. Resume </title>
+			<link>https://blasanka.github.io/my_resume/ </link>
+			<description>A beautiful Jekyll theme for creating resume </description>
+			<guid>https://blasanka.github.io/my_resume/ </guid>
+			<pubDate>Fri, 30 Nov 2018 03:51:39 GMT </pubDate>
+		</item>
+		<item>
+			<title>myBlog/posts.json at master · Blasanka/myBlog · GitHub </title>
+			<link>https://github.com/Blasanka/myBlog/blob/master/data/posts.json </link>
+			<description>This is where I put my blog posts, developed using AngularJS, bootstrap only in branch master, and in the other branch with these mongoDB, nodejs, and expressjs. Simply MEAN stack. - Blasanka/myBlog </description>
+			<guid>https://github.com/Blasanka/myBlog/blob/master/data/posts.json </guid>
+			<guid>https://github.com/Blasanka/myBlog/blob/master/data/categories.json </guid>
+			<guid>https://github.com/Blasanka/myBlog/blob/master/data/pages.json </guid>
+			<guid>https://github.com/Blasanka/myBlog/blob/master/data/subpages.json </guid> 
+			<pubDate>Fri, 30 Nov 2018 03:43:53 GMT </pubDate>
+			<author> Asanka B.L. </author> 
+		</item>
+	</channel>
+</rss>
